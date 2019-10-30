@@ -11,23 +11,23 @@
                 "carrierName": "3M"
             },
             {
-                "address": "4107 Burns Road",
-                "city": "Linden",
-                "zipcode": "48451",
+                "address": "4477 Lake Michigan Drive",
+                "city": "Allendale",
+                "zipcode": "49401",
                 "state": "MI",
                 "country": "USA",
-                "firstName": "Justin",
-                "lastName": "Johns",
-                "carrierName": "3M"
+                "firstName": "Gaelen",
+                "lastName": "Mcintee",
+                "carrierName": "GFS"
             },
             {
-                "address": "4107 Burns Road",
-                "city": "Linden",
-                "zipcode": "48451",
-                "state": "MI",
+                "address": "127 27th ave se",
+                "city": "Minneapolis",
+                "zipcode": "55414",
+                "state": "MN",
                 "country": "USA",
-                "firstName": "Justin",
-                "lastName": "Johns",
+                "firstName": "Matt",
+                "lastName": "Damiani",
                 "carrierName": "3M"
             }
         ],
@@ -38,29 +38,23 @@
                 "zipcode": "48451",
                 "state": "MI",
                 "country": "USA",
-                "firstName": "Justin",
-                "lastName": "Johns",
-                "carrierName": "3M"
+                "locationName" : "Meijer"
             },
             {
-                "address": "4107 Burns Road",
-                "city": "Linden",
-                "zipcode": "48451",
+                "address": "4477 Lake Michigan Drive",
+                "city": "Allendale",
+                "zipcode": "49401",
                 "state": "MI",
                 "country": "USA",
-                "firstName": "Justin",
-                "lastName": "Johns",
-                "carrierName": "3M"
+                "locationName": "Blujay"
             },
             {
-                "address": "4107 Burns Road",
-                "city": "Linden",
-                "zipcode": "48451",
-                "state": "MI",
+                "address": "127 27th ave se",
+                "city": "Minneapolis",
+                "zipcode": "55414",
+                "state": "MN",
                 "country": "USA",
-                "firstName": "Justin",
-                "lastName": "Johns",
-                "carrierName": "3M"
+                "locationName": "Walmart"
             }
         ]
     }
